@@ -42,23 +42,6 @@
 ## Update your profile
 
 ```
-You can follow any pathway a `code` or `profile information`
-
-## 4. Wait for Pull Request to merge
-
-## 5. Celebrate - you've done your first pull request!!
-
-```py
-'''
-Always make more than 4 pull requests.
-Let's say you have made only 4 pull requests to different projects,
-but one project is excluded from hackoctoberfest event then your pull request will not be counted and 
-then you have the remaining 3 valid pull requests if these projects are not excluded.
-If you fail to make 4 pull requests then you can't get swags or t-shirts.
-I will recommend you make a pull request to your own repo which is very very safe for you.
-Keep in mind that the repo has hacktoberfest topic.
-'''
-```
 
 ## + Follow Me : } Quick Approval of Pull Request
 
