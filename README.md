@@ -37,8 +37,8 @@
 - Add your profile data in `content/participant/`
 - Propose Changes
 - Create a pull request
-- Star this repository and give a follow to me for quick merge
-
+- Star this repository
+  
 ## Maintainer
 ## + Follow Me : } Quick Approval of Pull Request
 To get approval of the pull request much quicker and faster (`Follow Me`)🚀
