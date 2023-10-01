@@ -34,7 +34,7 @@
 
 - Fork this Repository using the button at the top on the right corner.
 - Add your profile image in `static/images/` ( use drag and drop option or upload by commands.)
-- Add your profile data in `content/participant/`
+- Add your profile data in `Profile-New Contributors`
 - Propose Changes
 - Create a pull request
 - Star this repository
