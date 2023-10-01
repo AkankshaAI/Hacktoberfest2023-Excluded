@@ -39,14 +39,8 @@
 - Create a pull request
 - Star this repository and give a follow to me for quick merge
 
-## Update your profile
-
-```
-
+## Maintainer
 ## + Follow Me : } Quick Approval of Pull Request
-
-```py
-'''
 To get approval of the pull request much quicker and faster (`Follow Me`)🚀
 '''
 ```
