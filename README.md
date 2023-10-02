@@ -2,16 +2,6 @@
 ![HacktoberFest 2023](logo.png)
 
 
-## Contributors of `Hacktoberfest 2023`
-
-<div align="center">
-
-<a href="https://github.com/AkankshaAI/Hacktoberfest2023/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=AkankshaAI/Hacktoberfest2023" />
-</a>
-  
-  </div>
-
 ## This Project Is Perfect For Your First Pull Request
 
 🗣 **Hacktoberfest encourages participation in the open-source community, which grows bigger every year. Complete the challenge and get a tree planted on your name showing your love towards mother Earth 🌍**
