@@ -3,7 +3,7 @@
 
 
 ## This Project Is Perfect For Your First Pull Request
-# For Hacktoberfest Machine Learning Project Contributions , Click Below
+### For Hacktoberfest Machine Learning Project Contributions , Click Below
 [Hacktoberfest Machine Learning Project](https://github.com/AkankshaAI/Hacktoberfest-Machine-Learning-diseases)
 
 🗣 **Hacktoberfest encourages participation in the open-source community, which grows bigger every year. Complete the challenge and get a tree planted on your name showing your love towards mother Earth 🌍**
