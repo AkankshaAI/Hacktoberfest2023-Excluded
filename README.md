@@ -22,7 +22,7 @@
 
 </div>
 
-## INSTRUCTIONS-
+## INSTRUCTIONS for this project for beginners -
 
 - Fork this Repository using the button at the top on the right corner.
 - Make sure the forked repository is ahead of all latest changes. If not, update to commits ahead and then proceed for editing.
