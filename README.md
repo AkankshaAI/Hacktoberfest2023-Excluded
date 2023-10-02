@@ -33,6 +33,7 @@
 ## INSTRUCTIONS-
 
 - Fork this Repository using the button at the top on the right corner.
+- Make sure the forked repository is ahead of all latest changes. If not, update to commits ahead and then proceed for editing.
 - Add your profile image in `static/images/` ( use drag and drop option or upload by commands.)
 - Add your profile data in `Profile-New Contributors`
 - Propose Changes
