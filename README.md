@@ -1,4 +1,4 @@
-# HacktoberFest 2023 `OPEN FIRST` Pull Request
+# This repo is excluded from Hacktoberfest2023, Please contribute to the repo below for your first PR ->> https://github.com/AkankshaAI/Hacktoberfest2023-Beginners-New
 ![HacktoberFest 2023](logo.png)
 
 
