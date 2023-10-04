@@ -2,7 +2,7 @@
 ![HacktoberFest 2023](logo.png)
 
 
-## This repo is excluded from Hakctoberfest2023, Please contribute to the repo below for your first PR ->> https://github.com/AkankshaAI/Hacktoberfest2023-Beginners-New
+## This repo is excluded from Hacktoberfest2023, Please contribute to the repo below for your first PR ->> https://github.com/AkankshaAI/Hacktoberfest2023-Beginners-New
 ### For Hacktoberfest Machine Learning Project Contributions , Click Below
 [Hacktoberfest Machine Learning Project](https://github.com/AkankshaAI/Hacktoberfest-Machine-Learning-diseases)
 
